@@ -21,3 +21,8 @@ $ git config --global user.email johndoe@example.com
 - $ git add . 
 - $ git commit -m "apa aja"
 - $ git push
+
+mengirim folder dari laptop ke Github
+- buat folder jadi repo
+- buat repo di github tanpa readme
+- push data
