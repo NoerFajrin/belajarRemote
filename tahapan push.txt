@@ -1,0 +1,23 @@
+remote git dan git hub
+
+
+menghubungkan folder dari Github ke git local
+
+- pilih folder tempat clone
+- klik kanan,buka git
+- config dulu nama sama email 
+$ git config --global user.name "John Doe"
+$ git config --global user.email johndoe@example.com
+
+- $ git clone "alamat repo github"
+- masuk ke folder dari git
+- $ git remote
+- $ git remote -v
+- $ git status 
+- $ alias graph="git log --all --decorate --oneline --graph"
+- $ graph
+- mulai edit file
+- $ git status
+- $ git add . 
+- $ git commit -m "apa aja"
+- $ git push
